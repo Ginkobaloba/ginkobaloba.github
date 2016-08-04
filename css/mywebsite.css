@@ -51,6 +51,8 @@ img{
 .center{
 	text-align: center;
 	list-style-position:inside;
+	margin:auto;
+	width:50%;
 }
 .nav{
 	position:static;
@@ -73,4 +75,22 @@ img{
 body{
 	background-color:#006400;
 	color:black;
+}
+#main_content {
+    top: 160px;
+    left: 160px;
+    width: 800px;
+    min-height: 500px;
+    height: auto;
+    background-color: #2185C5;
+    position: relative;
+}
+
+#container {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+	padding-left: 22%;
+    position: relative;
 }
