@@ -1,0 +1,50 @@
+.table{
+	Position:Relative;
+	left:250px
+}
+#title {
+	font-size:75px
+}
+header{
+	position:static;
+	top:0px;
+	left:opx;
+	
+}
+
+h3{
+	color:black;
+}
+li a:hover {
+    background-color: #111;
+}
+nav{
+	Position:Static;
+	top:190px;
+	width:98.5%
+	background-color:#fffff0;
+}
+h1{
+	color:black;
+}
+img{
+	margin:-2px;
+}
+.class{
+	position:static;
+	top:360px;
+}
+.events{
+	list-style:none;
+}
+.widthset{
+	max-width:20%;
+}
+.heightset{
+	max-height:175px;
+}
+.coursemapsize
+{
+	max-height:100%;
+	max-width:100%;
+}
