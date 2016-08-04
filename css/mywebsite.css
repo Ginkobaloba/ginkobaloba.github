@@ -91,6 +91,11 @@ body{
     height: auto;
     margin: 0 auto;
     padding: 10px;
-	padding-left: 22%;
+	padding-left: 23%;
+	padding-right: 23%
     position: relative;
+}
+.smallfix{
+	position:relative;
+	right:1%;
 }
